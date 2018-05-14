@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{1D9E1F1D-6198-46E1-A4B8-6B0F6F05081D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables task 2", "ConsoleApp2\Variables task 2.csproj", "{1D9E1F1D-6198-46E1-A4B8-6B0F6F05081D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
